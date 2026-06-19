@@ -11,10 +11,12 @@
 - [Why LVM Exists](#why-lvm-exists)
 - [The 3 Layers of LVM](#the-3-layers-of-lvm)
 - [Day 10 — Setting Up LVM From Scratch](#day-10--setting-up-lvm-from-scratch)
+  - [Interview Questions — Day 10](#interview-questions--lvm-setup)
 - [Day 11 — Extending a Logical Volume (Zero Downtime)](#day-11--extending-a-logical-volume-zero-downtime)
+  - [Interview Questions — Day 11](#additional-interview-questions--extending-lvm)
 - [Day 12 — Adding a New Disk to an Existing Pool](#day-12--adding-a-new-disk-to-an-existing-pool)
+  - [Interview Questions — Day 12](#additional-interview-questions--vgextend)
 - [Quick Reference Card](#quick-reference-card)
-- [Interview Questions](#interview-questions)
 
 ---
 
